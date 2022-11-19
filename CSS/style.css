@@ -46,7 +46,7 @@ a {
     width: 100%;
     align-items: center;
     justify-content: space-around;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     font-size: 14px;
     text-transform: uppercase;
 }
@@ -86,7 +86,7 @@ a {
     margin-bottom: 68px;
     text-transform: uppercase;
     text-align: center;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     color: #f4f4f4;
 
 }
@@ -179,7 +179,7 @@ input[name="r"] {
     margin: 0;
     padding-top: 100px;
     padding-bottom: 100px;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     text-transform: uppercase;
 
 
@@ -196,7 +196,7 @@ margin: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 
 .directory-list-li a {
@@ -228,7 +228,7 @@ margin: 0;
     flex-direction: column;
 }
 .project-information h3{
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     margin-bottom: 51px;
 }
 .project-information-container{
@@ -252,7 +252,7 @@ margin: 0;
 }
 .project-information-founder h2{
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     margin-bottom: 20px;
 }
 .project-information-describetion{
@@ -275,7 +275,7 @@ height: 136px;
     text-align: center;
     font-size: 40px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     margin: 0;
     padding-top: 147px;
     padding-bottom: 128px;
@@ -291,7 +291,7 @@ height: 136px;
 }
 .advantages-list h3{
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     font-weight: 200;
 }
 .advantages-container{
@@ -317,7 +317,7 @@ height: 136px;
     font-size: 40px;
     text-transform: uppercase;
     text-align: left;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     margin: 0;
     padding-left: 360px;
     padding-top: 226px;
@@ -350,7 +350,7 @@ height: 136px;
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 .advantages-youtube{
     display: flex;
@@ -364,7 +364,7 @@ height: 136px;
     text-align: center;
     font-size: 40px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 .advantages-youtube p{
     display: flex;
@@ -384,7 +384,7 @@ height: 136px;
     background-color: #bcad94;
     color: #FFFFFF;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     align-items: center;
     justify-content: center;
     border-radius: 3px;
@@ -403,7 +403,7 @@ height: 136px;
     text-align: center;
     font-size: 40px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 .slider-advice{
     width: 100%;
@@ -487,14 +487,14 @@ height: 136px;
     text-align: center;
     font-size: 40px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 .offer-blog h4,
 .offer-racipe h4{
     padding-left: 57px;
     font-size: 20px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 .offer-blog p,
 .offer-racipe p{
@@ -529,7 +529,7 @@ height: 136px;
     color: #FFFFFF;
     margin: 77px 0px 101px 225px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     border-radius: 3px;
 }
 .feedback{
@@ -544,7 +544,7 @@ height: 136px;
     color:#baab93;
     font-size:20px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 .feedback-list{
     display: flex;
@@ -556,7 +556,7 @@ height: 136px;
     color: #FFFFFF;
     font-size: 24px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     border-right: 3px solid #FFFFFF;
     padding-right: 25px;
 }
@@ -582,7 +582,7 @@ height: 136px;
     text-align: center;
     text-transform: uppercase;
     font-size: 40px;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 .social-networks-list{
     display: flex;
@@ -597,7 +597,7 @@ height: 136px;
 .social-networks-list a{
     color: #595959;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 }
 .social-networks-list a[name*='k']{
     border-right: 2px solid #595959;
@@ -620,7 +620,7 @@ height: 136px;
     justify-content: space-between;
     color: #262626;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
 
 }
 .form-container{
@@ -658,37 +658,82 @@ input[type="email"]{
     color: #FFFFFF;
     font-size: 14px;
     text-transform: uppercase;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     border-radius: 5px;
     border: none;
 }
 .feedback-footer{
+    display: flex;
     width: 100%;
-    height: 255px;
     background-color: #FFFFFF;
+    justify-content: space-around;
 }
 .feedback-footer-list{
-    display: flex;
-    margin: 107px auto 22px auto;
- 
-    align-items: center;
-    justify-content:space-around;
+    display: grid;
+ grid-template-columns: 521px 200px 100px;
+ grid-template-rows: 59px 59px ;
+ column-gap: 186px ;
+ margin: 107px 0px 89px 0px;
+ padding: 0;
+ color: #2A2A2A;
+ font-size: 20px;
 }
-.feedback-footer-li{
-    border-right: 2px solid #262626;
-    padding-right: 20px;
+.feedback-email-link{
+    color: #262626;
 }
 .feedback-footer-link{
-    margin: 22px 300px 88px 167px;
+    font-size: 16px;
+    color: #C0C0C0;
 }
 button[type="button"]{
     width: 292px;
     height: 93px;
+    margin: 81px 0px 81px 0px;
     background-color: #bcad94;
     text-transform: uppercase;
     color: #FFFFFF;
     font-size: 20px;
-    letter-spacing: .2rem;
+    letter-spacing: 3.2px;
     border-radius: 5px;
     border: none;
+}
+.footer-navigation{
+    width: 100%;
+    background-color: #262626;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+
+}
+.footer-navigation h3{
+    color: #B1A38C;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 3.2px;
+}
+.footer-navigation a{
+    color: #818181;
+    font-size: 14px;
+}
+.footer-navigation-heading{
+    grid-row: 1/2;
+    margin-top: 85px;
+    margin-left: 90px;
+}
+ .footer-navigation-list{
+    padding: 0;
+    
+} 
+.footer-navigation-list li{
+    margin-bottom: 20px;
+    margin-left: 90px;
+}
+small{
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color: #262626;
+    color: #575757;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.28px;
 }
