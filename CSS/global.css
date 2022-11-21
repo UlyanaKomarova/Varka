@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    font-family:"Gotham Pro Narrow" ;
+    margin: 0;
+    
+}
+p{
+   font-family: "Open Sans"; 
+}
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}

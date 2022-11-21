@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Gotham Pro Narrow";
+    src: url("../Fonts/gothampronarrow_medium.ttf") format("truetype");
+    font-weight:400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("../Fonts/OpenSans.ttf") format("truetype");
+    font-weight:400;
+    font-style: normal;
+}
